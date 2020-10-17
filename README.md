@@ -74,13 +74,13 @@ git checkout -b branch-name
     // GITHUB : https://github.com/zycamichaela
 
     console.log ( 'Hello, World!');
-    ```
+    ``
 
     이`hello_world_yourusername.xx`와 같은 파일 이름을 지정하십시오. 또는`hello_world_ceeeeebbbbb.js`는`hello_world_topDAD.py`와 같을 수도 있습니다.
 
     * 커밋 및 푸시
 
-    ```markdown
+    '''markdown
     자식 추가.
     git commit -m 'Add it "hacktoberfest"'
     git push origin branch-name
