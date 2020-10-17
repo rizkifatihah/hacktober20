@@ -64,3 +64,35 @@ git checkout -b branch-name
 
 [이름] (GitHub 링크)
 ```
+### 3.`Hello, World!`스크립트 생성
+    선택한 프로그래밍 언어로`scripts` 디렉토리에`hello_world_yourusername.xx` 스크립트를 추가하십시오! 예로서:
+
+    ```javascript
+    // LANGUAGE : 자바 스크립트
+    // ENV : Node.js
+    // 작성자 : Zyca Michaela
+    // GITHUB : https://github.com/zycamichaela
+
+    console.log ( 'Hello, World!');
+    ```
+
+    이`hello_world_yourusername.xx`와 같은 파일 이름을 지정하십시오. 또는`hello_world_ceeeeebbbbb.js`는`hello_world_topDAD.py`와 같을 수도 있습니다.
+
+    * 커밋 및 푸시
+
+    ```markdown
+    자식 추가.
+    git commit -m 'Add it "hacktoberfest"'
+    git push origin branch-name
+    ```
+
+    * 분기 된 저장소에서 새로운 pull 요청을 만듭니다. (리포지토리 위의 'New Pull Request'버튼 위치 클릭)
+    * PR 검토 및 병합 승인을 기다리십시오!
+    * __이 저장소에 별표 표시 __ 👌🏻
+
+
+    위에 표시된 것과 같은 주석을 포함하는 것을 잊지 마십시오. 코멘트에서 선택한 프로그래밍 언어에 대한 추가 정보를 자유롭게 제공하십시오! 그 모습을 잊지 마세요.
+
+    ## 감사합니다. 언제든지 물어보세요!
+
+    # 해피 핵 토버 페스트
