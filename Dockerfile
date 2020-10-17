@@ -1,4 +1,4 @@
 FROM jekyll/jekyll:3.8
-LABEL maintainer <kankuu-akhmadbasir5@gmail.com>
+LABEL maintainer <syouryuumaru>
 WORKDIR /srv/jekyll
 # EXPOSE 
