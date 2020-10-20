@@ -11,3 +11,11 @@
 -장소 : Semarang, Indonesia
 -약력 : 누구 시죠?
 -GitHub : [Munir] (github.com/zycamichaela)
+
+## 3. M Rizki Fatihah
+아래와 같이`CONTRIBUTORS.md`에 이름을 추가합니다.
+#### 이름 : [rizkifatihah] (github.com/rizkifatihah)
+-장소 : medan, Indonesia
+-약력 : 누구 시죠?
+-GitHub : [rizkifatihah] (github.com/rizkifatihah)
+
